@@ -12,6 +12,8 @@ namespace StLocal
         {
             Console.WriteLine("Implemented Feature 2.0");
             Console.WriteLine("This is the implementation for Feature 1.0");
+            Console.WriteLine("Someone working on master :)");
+
         }
     }
 }
