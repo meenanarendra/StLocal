@@ -10,6 +10,7 @@ namespace StLocal
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("This is the implementation for Feature 1.0");
         }
     }
 }
