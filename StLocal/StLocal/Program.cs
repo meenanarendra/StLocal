@@ -11,6 +11,7 @@ namespace StLocal
         static void Main(string[] args)
         {
             Console.WriteLine("This is the implementation for Feature 1.0");
+            Console.WriteLine("Fixing a bug in Feature 1.0");
         }
     }
 }
